@@ -252,9 +252,3 @@ down.addEventListener("click", fundownloadpdf);
 let send = document.getElementById("sendecopy");
 
 send.addEventListener("click", fundownloadpdf);
-
-
-
-
-
-
